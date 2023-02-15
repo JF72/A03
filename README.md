@@ -2,7 +2,7 @@ PART 1: Directions on Using Webstorm.
 Add a step-by-step set of directions. Include URLs of any downloaded software. 
 1. To use Webstorm, you start by signing up for an account on jetbrains. 
 2. After getting a verified account you install the application onto your laptop. 
-3. Then sign into GitHub and download Git onto your laptop. 
+3. Then sign into GitHub and download Git onto your laptop.
 4. When downloaded Git make sure you choose the model specific for your laptop model.
 5. After all these steps are complete, open Webstorm and connect it with your GitHub account through the system preferences. 
 
